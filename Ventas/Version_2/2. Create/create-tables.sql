@@ -17,7 +17,7 @@ CREATE TABLE clientes(
 );
 
 --Invoice Table
-CREATE TABLEA factura(
+CREATE TABLE factura(
     id_factura INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
     fecha DATE UNIQUE,
     FK_idProducto INT,
