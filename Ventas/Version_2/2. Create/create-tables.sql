@@ -3,16 +3,16 @@
 --Products Table
 CREATE TABLE productos(
     id_producto INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
-    nombre VARCHAR (30) DEFAULT "Carne" NOT NULL,
+    nombre VARCHAR (30) NOT NULL,
     precio DECIMAL (5,2)
 );
 
 --Customers Table
 CREATE TABLE clientes(
     id_cliente INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
-    nombre VARCHAR (30) DEFAULT "Ariel" NOT NULL,
-    apellido VARCHAR (30) DEFAULT "Izurieta" NOT NULL,
-    edad INT CHECK(edad>=18),
+    nombre VARCHAR (30) NOT NULL,
+    apellido VARCHAR (30) NOT NULL,
+    edad INT CHECK(edad>=18) NOT NULL,
     genero ENUM ('M', 'F')
 );
 
