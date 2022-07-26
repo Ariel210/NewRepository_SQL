@@ -1,7 +1,7 @@
                                             Table of Contents
                                                  SQL
                                             Izurieta Ariel Martin
-                                             DDL:
+                                                  DDL:
                                            ### Database and Tables###
 
 CREATE DATABASE name_database; - [Command for create database's]
@@ -23,12 +23,13 @@ ALTER TABLE 'nombre_tabla' DROP COLUMN 'nombre_columna' - [ Dropea/Borra columna
 ALTER TABLE 'nombre_tabla' ADD PRIMARY KEY ('nombre_columna') - Agregar primary key y Remove primary key
 
 
-                                           ###Tables / Databases: Drop, Delete and Truncate ###                                          
+                                             
+                                        ###Tables / Databases: Drop, Delete and Truncate ### 
+                                        DML                                       
 DROP DATABASE nombre_base_datos; - [ Dropea/Borra estructura - base de datos ]
 
 DROP TABLE 'nombre_tabla'; - [ Dropea/Borra tabla y estructura ]
 
 TRUNCATE TABLE 'nombre_tabla';
 
-
-DML:
+INSERT INTO nombre_tabla (nombre_columna, nombre_columna, nombre_columna) VALUES ('VALUES1', 'VALUES2','VALUES3') - [ Insertando datos ]
