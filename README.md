@@ -16,3 +16,11 @@ CREATE TABLE table_name ( --Parameters --column_name | date_type ); -> I'm creat
 SHOW TABLES; - [ Muestra las tablas existentes en la base de datos ]
 
 DROP TABLE 'nombre_tabla'; - [ Dropea/Borra tabla y estructura ]
+
+
+                                           ### Alter ###
+ALTER TABLE 'nombre_tabla' ADD 'column y tipo de dato' - [ Agrega columna ]
+
+ALTER TABLE 'nombre_tabla' DROP COLUMN 'nombre_columna' - [ Dropea/Borra columna de tabla ] 
+
+
