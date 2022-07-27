@@ -1,9 +1,27 @@
+<<<<<<< HEAD
 #Table of Contents
 #Izurieta Ariel Martin
 ##SQL
 ***
+=======
+<<<<<<< HEAD
+##SQL Project
+***
+Izurieta Ariel Martin
+***
+DDL:
+
+##Database
+=======
+#Table of Contents
+***
+##SQL
+***
+Izurieta Ariel Martin
+>>>>>>> 1fd15262bb733e5bb940f9657ddf7b83a46ca8c7
                                                   DDL:
                                            ### Database ###
+>>>>>>> 60f01ad7a7acc695a5185e3b4e7bff0e57ee76c9
 
 CREATE DATABASE name_database; - [Command for create database's]
 
@@ -36,7 +54,15 @@ ALTER TABLE 'nombre_tabla' DROP PRIMARY KEY; - [ Comando para dropear Primary Ke
                                              
 
 
+<<<<<<< HEAD
                                          DML                                       
+=======
+<<<<<<< HEAD
+                                          DML                                     
+=======
+                                         DML                                       
+>>>>>>> 60f01ad7a7acc695a5185e3b4e7bff0e57ee76c9
+>>>>>>> 1fd15262bb733e5bb940f9657ddf7b83a46ca8c7
 
 INSERT INTO nombre_tabla (nombre_columna, nombre_columna, nombre_columna) VALUES ('VALUES1', 'VALUES2','VALUES3') - [ Insertando datos ]
 
