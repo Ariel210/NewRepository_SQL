@@ -1,5 +1,6 @@
-                                            Table of Contents
-                                                 SQL
+##SQL Project
+***
+                                                 
                                             Izurieta Ariel Martin
                                                   DDL:
                                            ### Database ###
