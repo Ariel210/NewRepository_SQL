@@ -1,8 +1,7 @@
 #Table of Contents
-***
+#Izurieta Ariel Martin
 ##SQL
 ***
-Izurieta Ariel Martin
                                                   DDL:
                                            ### Database ###
 
