@@ -35,7 +35,7 @@ ALTER TABLE 'nombre_tabla' DROP PRIMARY KEY; - [ Comando para dropear Primary Ke
                                              
 
 
-                                        ### DML ###                                       
+                                          DML                                     
 
 INSERT INTO nombre_tabla (nombre_columna, nombre_columna, nombre_columna) VALUES ('VALUES1', 'VALUES2','VALUES3') - [ Insertando datos ]
 
