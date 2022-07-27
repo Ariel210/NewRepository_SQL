@@ -1,24 +1,14 @@
-<<<<<<< HEAD
 #Table of Contents
 #Izurieta Ariel Martin
 ##SQL
 ***
 =======
-<<<<<<< HEAD
 ##SQL Project
 ***
 Izurieta Ariel Martin
 ***
 DDL:
-
-##Database
-=======
-#Table of Contents
 ***
-##SQL
-***
-Izurieta Ariel Martin
->>>>>>> 1fd15262bb733e5bb940f9657ddf7b83a46ca8c7
                                                   DDL:
                                            ### Database ###
 >>>>>>> 60f01ad7a7acc695a5185e3b4e7bff0e57ee76c9
