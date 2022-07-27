@@ -3,15 +3,8 @@
 ##SQL
 ***
 =======
-##SQL Project
-***
-Izurieta Ariel Martin
-***
-DDL:
-***
                                                   DDL:
                                            ### Database ###
->>>>>>> 60f01ad7a7acc695a5185e3b4e7bff0e57ee76c9
 
 CREATE DATABASE name_database; - [Command for create database's]
 
@@ -21,6 +14,7 @@ DROP DATABASE nombre_base_datos; - [ Comando para Dropear/Borrar estructura de B
 
 USE nombre_base_datos; - [ Comando para usar/ingresar a la base de datos ]
 
+***
 
                                           ### Tables ###
 CREATE TABLE table_name ( --Parameters --column_name | date_type ); -> Creando nueva tabla
@@ -31,6 +25,7 @@ DROP TABLE 'nombre_tabla'; - [ Dropea/Borra tabla y estructura ]
 
 DESCRIBE 'nombre_tabla'; - [ Describe tabla con detalles ] 
 
+***
 
                                            ### Alter ###
 ALTER TABLE 'nombre_tabla' ADD 'column y tipo de dato' - [ Agrega columna ]
