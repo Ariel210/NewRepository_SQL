@@ -4,7 +4,7 @@
 ***
 
                                                   DDL:
-                                           ### Database ###
+                                           ### Database and Tables###
 
 CREATE DATABASE name_database; - [Command for create database's]
 
@@ -16,7 +16,6 @@ USE nombre_base_datos; - [ Comando para usar/ingresar a la base de datos ]
 
 ***
 
-                                          ### Tables ###
 CREATE TABLE table_name ( --Parameters --column_name | date_type ); -> Creando nueva tabla
 
 SHOW TABLES; - [ Muestra las tablas existentes en la base de datos ]
@@ -25,6 +24,7 @@ DROP TABLE 'nombre_tabla'; - [ Dropea/Borra tabla y estructura ]
 
 DESCRIBE 'nombre_tabla'; - [ Describe tabla con detalles ] 
 
+***
 ***
 
                                            ### Alter ###
@@ -37,9 +37,8 @@ ALTER TABLE 'nombre_tabla' ADD PRIMARY KEY ('nombre_columna') - [ Comando para a
 
 ALTER TABLE 'nombre_tabla' DROP PRIMARY KEY; - [ Comando para dropear Primary Key ]
  
-***                                             
-                                          DML                                     
->>>>>>> 1fd15262bb733e5bb940f9657ddf7b83a46ca8c7
+***                                           
+                                          ### DML ###
 
 INSERT INTO nombre_tabla (nombre_columna, nombre_columna, nombre_columna) VALUES ('VALUES1', 'VALUES2','VALUES3') - [ Insertando datos ]
 
