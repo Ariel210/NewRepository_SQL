@@ -1,9 +1,10 @@
 ##SQL Project
 ***
-                                                 
-                                            Izurieta Ariel Martin
-                                                  DDL:
-                                           ### Database ###
+Izurieta Ariel Martin
+***
+DDL:
+
+##Database
 
 CREATE DATABASE name_database; - [Command for create database's]
 
