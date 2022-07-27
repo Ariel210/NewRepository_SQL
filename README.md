@@ -1,8 +1,8 @@
 #Table of Contents
-#Izurieta Ariel Martin
-##SQL
+##Izurieta Ariel Martin
+###SQL
 ***
-=======
+
                                                   DDL:
                                            ### Database ###
 
@@ -36,17 +36,9 @@ ALTER TABLE 'nombre_tabla' DROP COLUMN 'nombre_columna' - [ Dropea/Borra columna
 ALTER TABLE 'nombre_tabla' ADD PRIMARY KEY ('nombre_columna') - [ Comando para agregar primary key ] 
 
 ALTER TABLE 'nombre_tabla' DROP PRIMARY KEY; - [ Comando para dropear Primary Key ]
-                                             
-
-
-<<<<<<< HEAD
-                                         DML                                       
-=======
-<<<<<<< HEAD
+ 
+***                                             
                                           DML                                     
-=======
-                                         DML                                       
->>>>>>> 60f01ad7a7acc695a5185e3b4e7bff0e57ee76c9
 >>>>>>> 1fd15262bb733e5bb940f9657ddf7b83a46ca8c7
 
 INSERT INTO nombre_tabla (nombre_columna, nombre_columna, nombre_columna) VALUES ('VALUES1', 'VALUES2','VALUES3') - [ Insertando datos ]
