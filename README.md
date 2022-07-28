@@ -7,8 +7,7 @@
                                            ### Database and Tables###
 
 CREATE DATABASE name_database; - [Command for create database's]
-
-SHOW DATABASES; - [ Command for show databases ]
+<br>SHOW DATABASES; - [ Command for show databases ]
 
 DROP DATABASE nombre_base_datos; - [ Comando para Dropear/Borrar estructura de BD ]
 
