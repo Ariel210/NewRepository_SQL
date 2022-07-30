@@ -8,18 +8,14 @@
 
 CREATE DATABASE name_database; - [Command for create database's]
 <br>SHOW DATABASES; - [ Command for show databases ]<br>
-DROP DATABASE nombre_base_datos; - [ Comando para Dropear/Borrar estructura de BD ]
-
+DROP DATABASE nombre_base_datos; - [ Comando para Dropear/Borrar estructura de BD ]<br>
 USE nombre_base_datos; - [ Comando para usar/ingresar a la base de datos ]
 
 ***
 
-CREATE TABLE table_name ( --Parameters --column_name | date_type ); -> Creando nueva tabla
-
-SHOW TABLES; - [ Muestra las tablas existentes en la base de datos ]
-
-DROP TABLE 'nombre_tabla'; - [ Dropea/Borra tabla y estructura ]
-
+CREATE TABLE table_name ( --Parameters --column_name | date_type ); -> Creando nueva tabla<br>
+SHOW TABLES; - [ Muestra las tablas existentes en la base de datos ]<br>
+DROP TABLE 'nombre_tabla'; - [ Dropea/Borra tabla y estructura ]<br>
 DESCRIBE 'nombre_tabla'; - [ Describe tabla con detalles ] 
 
 ***
