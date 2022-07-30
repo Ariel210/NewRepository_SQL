@@ -18,8 +18,7 @@ SHOW TABLES; - [ Muestra las tablas existentes en la base de datos ]<br>
 DROP TABLE 'nombre_tabla'; - [ Dropea/Borra tabla y estructura ]<br>
 DESCRIBE 'nombre_tabla'; - [ Describe tabla con detalles ] 
 
-***
-***
+<br><br>
 
                                            ### Alter ###
 ALTER TABLE 'nombre_tabla' ADD 'column y tipo de dato' - [ Agrega columna ]
